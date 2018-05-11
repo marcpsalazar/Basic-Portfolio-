@@ -180,11 +180,10 @@ h1 {
 }
 
 p {
-  color: #777777;
-  line-height: 45px;
   display: inline;
+  color: #777777;
+  line-height: 55px;
   font-size: 17px;
-
 }
 
 #about, #contact, #portfolio {
@@ -192,10 +191,6 @@ p {
     font-size: 30px;
 }
 
-/* #contact {
-      color: #4aaaa5; */
-
-}
 
 /*
 ==================================================================
@@ -204,6 +199,7 @@ Images
 */
 
 .headshot {
+  display: inline;
   margin-top: 20px;
   margin-bottom: -5px;
   margin-right: 15px;
